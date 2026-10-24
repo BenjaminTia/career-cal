@@ -35,15 +35,14 @@ Not here: classes, coursework assessments, exams, enrolment/fees, campus IT or f
 — those belong to `uni-cal`.
 
 ## Files
-- `career.ics` — canonical subscription URL (use this one).
-- `career2.ics` — byte-identical mirror, used to bypass a stale client cache.
+- `career.ics` is the only supported feed. The owner confirmed the new subscriptions work and authorised retirement of cache-bypass aliases on 24 Oct 2026.
+- Keep backups privately outside this repository, never as additional published feeds.
 
 ## Updating
-Edit `career.ics`, copy it over `career2.ics`, then stage exactly those files by name:
+Edit `career.ics`, then stage only the canonical file and documentation by name:
 
 ```
-cp career.ics career2.ics
-git -c core.autocrlf=false add career.ics career2.ics README.md
+git -c core.autocrlf=false add career.ics README.md
 git commit -m "..." && git push origin main
 ```
 
