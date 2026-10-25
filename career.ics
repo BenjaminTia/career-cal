@@ -1158,8 +1158,8 @@ UID:6f76f170f6db42c2ea6acfec46116ab3@hkmu
 DTSTAMP:20261022T110458Z
 DTSTART;TZID=Asia/Hong_Kong:20261026T195900
 DTEND;TZID=Asia/Hong_Kong:20261026T195900
-SUMMARY:Apart AI Collusion Sprint - research report DUE Mon 26 Oct 19:59 (2
- 3:59 AoE Sun)
+SUMMARY:Apart AI Collusion Sprint - report SUBMITTED Sun 25 Oct 12:53 (offi
+ cial close Mon 26 Oct 19:59)
 CATEGORIES:Competition
 DESCRIPTION:Apart Research sprint email (kamil@apartresearch.com) "AI Collu
  sion Research Sprint: what to know before Friday"\, received 21 Oct 2026 (
@@ -1175,7 +1175,20 @@ DESCRIPTION:Apart Research sprint email (kamil@apartresearch.com) "AI Collu
  need to resubmit\, email Kamil at kamil@apartresearch.com and CC sprint@ap
  artresearch.com." The earlier "same exact title replaces it" guidance is V
  OID.\nClashes the same week: UNI 2002BEW Assignment 2 closes 17:00 Mon 26 
- Oct and COMP 3500SEF Assign 4 closes 23:59 Mon 26 Oct. Reminder
+ Oct and COMP 3500SEF Assign 4 closes 23:59 Mon 26 Oct. Reminder\nSUBMITTED
+  25 Oct 2026 12:53 HKT. Organiser confirmation from Apart Research <no-rep
+ ly.il85hn@zapiermail.com>\, subject "Evaluating Action-Dependence Measures
+  for Collusion Detection in a Four-Agent Game" successfully submitted"\, r
+ eceived 25 Oct 2026 12:53 HKT\, verbatim: "Thank you for submitting the pr
+ oject "Evaluating Action-Dependence Measures for Collusion Detection in a 
+ Four-Agent Game". Your submission has been received successfully." The sam
+ e mail adds: "I can't replace any uploaded file (PDF\, code\, slides\, rec
+ ording\, image) after it's submitted\, so sending me a corrected file won'
+ t update your submission." So the received PDF is final.\nOfficial close r
+ emains Mon 26 Oct 19:59 HKT for anyone else on the team. If a corrected ve
+ rsion is genuinely needed\, email Kamil at kamil@apartresearch.com and CC 
+ sprint@apartresearch.com (the Luma copy of the 24 Oct notice writes sprint
+ s@).
 BEGIN:VALARM
 TRIGGER:-PT90M
 ACTION:DISPLAY
@@ -1234,14 +1247,16 @@ DESCRIPTION:Hub day 2 of 2. Venue hours 10:00-19:00. 15:00 draft upload: RU
  received. The earlier "resubmit with the same title to replace it" instruc
  tion is void\, so do not upload a draft unless it is the final paper. 18:3
  0-19:00 closing remarks and the Local Hub Impact Survey\, which must be co
- mpleted before leaving. Final hard deadline Mon 26 Oct 19:59 HKT.
+ mpleted before leaving. Final hard deadline Mon 26 Oct 19:59 HKT. SUBMITTE
+ D: his project upload was acknowledged by Apart Research at 12:53 HKT on t
+ his day\, before the 15:00 slot.
 END:VEVENT
 BEGIN:VEVENT
 UID:d1c2f0a4a11e4c33b0f1c0a5e7b29d10@hkmu
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Asia/Hong_Kong:20261025T150000
 DTEND;TZID=Asia/Hong_Kong:20261025T150000
-SUMMARY:Apart sprint - SINGLE submission only (no resubmission)
+SUMMARY:Apart sprint - SUBMITTED 12:53 (single-submission rule discharged)
 DESCRIPTION:Rule changed 24 Oct 00:40 HKT (HK AI Safety Hub <info@hkaisafet
  yhub.org>\, subject "Update on submission rules for the AI agent collusion
   hackathon")\, verbatim: "Submit once only because resubmitting does not r
@@ -1249,5 +1264,10 @@ DESCRIPTION:Rule changed 24 Oct 00:40 HKT (HK AI Safety Hub <info@hkaisafet
  a draft. If a replacement is unavoidable\, email Kamil at kamil@apartresea
  rch.com and CC sprint@apartresearch.com (the Luma copy of the same notice 
  says sprints@apartresearch.com). Final hard deadline Mon 26 Oct 19:59 HKT.
+ \nDISCHARGED 25 Oct: his project was submitted at 12:53 HKT\, before the 1
+ 5:00 draft marker\, and the organiser acknowledged receipt by email. No fu
+ rther upload is due from him. The 24 Oct rule still stands for any replace
+ ment attempt: "Submit once only because resubmitting does not replace the 
+ PDF received."
 END:VEVENT
 END:VCALENDAR
