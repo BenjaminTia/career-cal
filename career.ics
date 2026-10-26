@@ -1270,4 +1270,23 @@ DESCRIPTION:Rule changed 24 Oct 00:40 HKT (HK AI Safety Hub <info@hkaisafet
  ment attempt: "Submit once only because resubmitting does not replace the 
  PDF received."
 END:VEVENT
+BEGIN:VEVENT
+UID:hkmu-catholic-ai-dignity-talk-20261112@hkmu
+DTSTAMP:20261026T110825Z
+DTSTART;TZID=Asia/Hong_Kong:20261112T123000
+DTEND;TZID=Asia/Hong_Kong:20261112T140000
+SUMMARY:HKMU Catholic Group talk - "Does humanity remain great in the age o
+ f AI?" 12:30-14:00\, B0411
+DESCRIPTION:Guided reading of the Pope's latest encyclical by the HKMU Coun
+ cil Chairman\, Ir Dr Conrad Wong Tin-cheung\, BBS\, JP. HKMU Main Campus B
+ 0411\; 12/11/2026 12:30-14:00\; free\; light snacks and drinks\; target au
+ dience HKMU full-time students and staff. Register: https://docs.google.co
+ m/forms/d/e/1FAIpQLSd-5-fr_THVHl5ENwpOyVYZ8yw9tfWGwEZAFQ-aorq0Ic-nFw/viewf
+ orm . No registration deadline is stated in the mail. Sent on behalf of th
+ e HKMU Catholic Group by SAO Student Organisations and Campus Life Enrichm
+ ent <ssa@hkmu.edu.hk>\, received Mon 26 Oct 2026 17:19 HKT. Optional - sit
+ s after the ELEC 3630SEF mid-term (09:15-11:00) on the same morning. AI an
+ d human dignity is his philosophy lane\, so listed as awareness.
+CATEGORIES:Talk\,AI
+END:VEVENT
 END:VCALENDAR
