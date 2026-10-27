@@ -1080,26 +1080,23 @@ URL:https://hkmu.qualtrics.com/jfe/form/SV_d5PjjqhrXHNOioK
 END:VEVENT
 BEGIN:VEVENT
 UID:d02753783cbe9e6dc746b75b25f7de94@hkmu
-DTSTAMP:20261018T110200Z
-DTSTART;TZID=Asia/Hong_Kong:20261026T075900
-DTEND;TZID=Asia/Hong_Kong:20261026T085900
-SUMMARY:IEEEXtreme 20.0 - registration DUE Sun 25 Oct 23:59 UTC (Mon 26 Oct
-  07:59 HKT) [EXTENDED]
-DESCRIPTION:IEEEXtreme <ieee-xtreme@deliver.ieee.org>\, subject "You Asked\
- , We Extended It: Register for IEEEXtreme 20.0"\, received 18 Oct 2026 08:
- 03 HKT. Verbatim: "Missed the registration deadline? Good news. Due to str
- ong interest from students around the world\, registration for IEEEXtreme 
- 20.0 has been extended." / "You now have one final week to register." / "E
- xtended Registration Deadline: 25 October 2026\, 23:59 UTC". This supersed
- es the original 17 Oct 23:59 UTC close. Free and exclusive to IEEE Student
-  Members (his member no. 102755994)\, individual or team\, a registered pr
- octor required\, all members 18+. Competition starts 00:00 UTC 31 Oct 2026
-  = 08:00 HKT Sat 31 Oct and runs 24 hours\; new hybrid format with AI-enab
- led and AI-prohibited tracks. Still NOT registered: no registration confir
- mation exists anywhere in the mailbox as of 18 Oct 19:00 - reminders and t
- his extension notice only. Register at ieeextreme.org. Registering is his.
-CATEGORIES:IEEEXtreme
+DTSTAMP:20261027T110723Z
+DTSTART;TZID=Asia/Hong_Kong:20261029T075900
+DTEND;TZID=Asia/Hong_Kong:20261029T085900
+SUMMARY:IEEEXtreme 20.0 - registration DUE Wed 28 Oct 23:59 UTC (Thu 29 Oct
+  07:59 HKT)
+DESCRIPTION:IEEEXtreme <ieee-xtreme@deliver.ieee.org>\, subject "Only 2 Day
+ s Left to Register for IEEEXtreme 20.0"\, received 27 Oct 2026 02:16 HKT. 
+ Verbatim: "Registration closes at 23:59 UTC on Wednesday\, October 28\, 20
+ 26. If you're planning to compete on October 31\, 2026\, now is your last 
+ chance to secure your spot." This is a SECOND extension and supersedes the
+  25 Oct 23:59 UTC close recorded here earlier. Competition starts 00:00 UT
+ C Sat 31 Oct 2026 = 08:00 HKT\, runs 24 hours\; free and exclusive to IEEE
+  Student Members (his member no. 102755994)\, registered proctor required.
+  No registration confirmation exists anywhere in the mailbox as of 27 Oct 
+ 19:00\, so treat as NOT registered. Registering is his.
 URL:https://ieeextreme.org/
+CATEGORIES:IEEEXtreme
 END:VEVENT
 BEGIN:VEVENT
 UID:35621cecda2741d440b2ed6b369e85b6ec1eb0f8@hkmu
@@ -1288,5 +1285,60 @@ DESCRIPTION:Guided reading of the Pope's latest encyclical by the HKMU Coun
  s after the ELEC 3630SEF mid-term (09:15-11:00) on the same morning. AI an
  d human dignity is his philosophy lane\, so listed as awareness.
 CATEGORIES:Talk\,AI
+END:VEVENT
+BEGIN:VEVENT
+UID:apec-nextgen-summit-2026-apply@hkmu
+DTSTAMP:20261027T110723Z
+DTSTART;TZID=Asia/Hong_Kong:20261102T235900
+DTEND;TZID=Asia/Hong_Kong:20261102T235900
+SUMMARY:2026 APEC NEXT-GEN Youth Entrepreneur Summit - application DUE Mon 
+ 2 Nov
+DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, "2026
+  APEC NEXT-GEN 青年企業家峰會學生志願者及參加者邀請函"\
+ , received 27 Oct 2026 12:43 HKT. Verbatim: 「申請表格：https://hkmu
+ .qualtrics.com/jfe/form/SV_9Fj2kx3uCD1FNHg」 and 「截止日期: 2026年
+ 11月2日」. Summit on Fri 20 Nov 2026 at the Hong Kong Palace Museum Joc
+ key Club Auditorium\, opening 09:30\; ~400 guests from the 21 APEC economi
+ es\; themes include AI and the digital economy. 10 places each for attende
+ es and student volunteers (volunteers must attend the whole programme\, at
+ tendees may choose sessions). Successful applicants are notified by email.
+  Filling the form is his.
+CATEGORIES:Opportunity
+END:VEVENT
+BEGIN:VEVENT
+UID:hksec-2026-27-first-round@hkmu
+DTSTAMP:20261027T110723Z
+DTSTART;TZID=Asia/Hong_Kong:20261117T235900
+DTEND;TZID=Asia/Hong_Kong:20261117T235900
+SUMMARY:HKSEC 2026-27 - First Round document submission DUE Tue 17 Nov
+DESCRIPTION:Hong Kong Social Enterprise Challenge <hksec@cuhk.edu.hk>\, "[H
+ KSEC] Welcome to HKSEC 2026-27!"\, received 27 Oct 2026 17:04 HKT. Verbati
+ m: "We are pleased to inform you that your registration is successful." / 
+ "17 November 2026 – First Round Document Submission and Faculty Advisor 
+ Form Submission (You are recommended to submit earlier to avoid network tr
+ affic congestion)" / "8 December 2026 – First Round Results Announcement
+ ". Training Workshop 1 (Social Innovation Daycamp) Sat 7 Nov 10:00-16:00 p
+ lus Mixer 1 16:30-18:30 at HKBU\; registration for those closes "4 Novembe
+ r 2026 (Wed)"\, register individually. CAVEAT: hksec.hk eligibility requir
+ es every team member to have the right of abode in Hong Kong\; his depende
+ nt visa does not meet that clause\, so confirm eligibility with hksec@hkse
+ c.hk before investing time in the document.
+CATEGORIES:HKSEC
+END:VEVENT
+BEGIN:VEVENT
+UID:sao-ai-video-production-workshop-2026@hkmu
+DTSTAMP:20261027T110723Z
+DTSTART;TZID=Asia/Hong_Kong:20261119T143000
+DTEND;TZID=Asia/Hong_Kong:20261119T163000
+SUMMARY:SAO workshop - AI Video Production Essentials 14:30-16:30 A1005 (re
+ gister by 12 Nov)
+DESCRIPTION:HKMU SAO (Student Career Development) <career@hkmu.edu.hk>\, "[
+ Join Now!] Starting from Scratch: AI Video Production Essentials"\, receiv
+ ed 27 Oct 2026 16:40 HKT. Thu 19 Nov 2026\, 14:30-16:30\, Room A1005\, 10/
+ F MU Tower\; free\, HK$50 deposit refunded on attendance or non-selection\
+ , forfeited on unexplained absence\; 2 Metro FAITH hours. Verbatim: 「截
+ 止報名日期 11月12日 (星期四)」. Register: hkmu.qualtrics.com/jf
+ e/form/SV_doIJx3P8CuohjzE - confirmation by 13 Nov.
+CATEGORIES:Workshop
 END:VEVENT
 END:VCALENDAR
