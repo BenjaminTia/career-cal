@@ -1341,4 +1341,39 @@ DESCRIPTION:HKMU SAO (Student Career Development) <career@hkmu.edu.hk>\, "[
  e/form/SV_doIJx3P8CuohjzE - confirmation by 13 Nov.
 CATEGORIES:Workshop
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techathon+ - HK/US patent search summary DUE
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261027T145027Z
+UID:techathon-private-regional-search-20261107@hkmu
+SEQUENCE:0
+CATEGORIES:Techathon,Deadline
+DESCRIPTION:Regional research-summary deliverable for a private team proje
+ ct. Deadline confirmed in the team plan supplied 27 October 2026. Closing 
+ hour was not specified\, so this is an all-day deadline marker\, not an ap
+ pointment or a completed search. Detailed scope\, sources\, files and para
+ llel teammate responsibilities remain in the private project notes.
+LAST-MODIFIED:20261027T145027Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techathon+ - sensor/system proposal DUE
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261027T145027Z
+UID:techathon-private-system-proposal-20261114@hkmu
+SEQUENCE:0
+CATEGORIES:Techathon,Deadline
+DESCRIPTION:Research and proposal deliverable for a private team project\;
+  not a finished working-prototype deadline. Deadline confirmed in the team
+  plan supplied 27 October 2026. No closing hour was specified. Detailed de
+ sign\, required inputs and parallel teammate milestones remain in the priv
+ ate project notes. Deadline adjustments were offered but none has been agr
+ eed.
+LAST-MODIFIED:20261027T145027Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
