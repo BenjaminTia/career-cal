@@ -840,16 +840,17 @@ URL:https://www.hkmu.edu.hk/sao/sch/ft-spss/
 END:VEVENT
 BEGIN:VEVENT
 UID:b93ff8d2f9c5e0259cfeb56309e063be@hkmu
-DTSTAMP:20261012T110729Z
+DTSTAMP:20261028T111021Z
 DTSTART;TZID=Asia/Hong_Kong:20261030T123000
 DTEND;TZID=Asia/Hong_Kong:20261030T140000
 SUMMARY:Physical Wellness Talk - The Heart Health Toolkit 12:30-14:00 (regi
- ster by Sun 25 Oct)
+ ster by Thu 29 Oct 23:59)
 DESCRIPTION:Vibrance Hub\, 5/F Ho Sik Yee Library (JCC). Speaker Dr Nestor 
- MUI Chun Yue\, cardiology specialist. Registration deadline "25 October 20
- 26 (Sunday)"; quota limited\, first-come-first-served\, confirmation by 28
-  Oct. Register at hkmu.qualtrics.com/jfe/form/SV_1HPTgnFyWjua8EC (SAO Spor
- ts\, received 12 Oct 12:15 HKT).
+ MUI Chun Yue\, cardiology specialist. Registration EXTENDED: SAO Sports re
+ -sent the invitation on 28 Oct 2026 15:21 HKT with \"Registration deadline
+ : 29 October 2026 (Thursday)\, 23:59\"\; the 25 October close quoted in th
+ e 12 Oct mail is superseded. Quota limited\, first-come-first-served. Regi
+ ster at hkmu.qualtrics.com/jfe/form/SV_1HPTgnFyWjua8EC
 CATEGORIES:Wellness
 URL:https://hkmu.qualtrics.com/jfe/form/SV_1HPTgnFyWjua8EC
 END:VEVENT
@@ -1375,5 +1376,24 @@ DESCRIPTION:Research and proposal deliverable for a private team project\;
 LAST-MODIFIED:20261027T145027Z
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gba-fintech-talent-initiative-2026-apply@hkmu
+DTSTAMP:20261028T111021Z
+DTSTART;TZID=Asia/Hong_Kong:20261101T235900
+DTEND;TZID=Asia/Hong_Kong:20261101T235900
+SUMMARY:GBA Fintech Talent Initiative 2026 - application DUE Sun 1 Nov
+DESCRIPTION:HKMU SAO (Student Career Development) <career@hkmu.edu.hk>\, \"
+ Explore a Fintech Career with GBA Fintech Talent Initiative 2026大灣區
+ 金融科技人才計劃2026現正招生\"\, received 28 Oct 2026 10:19 HK
+ T. Verbatim: 「截止報名日期：2026年11月1日」 / \"Application D
+ eadline: 1 November 2026\". Bloomberg-organised\, HKMA as convening partne
+ r\, JA China and JA Hong Kong as non-profit partners\; training via Bloomb
+ erg for Education\, company visits and cross-border exchange in Hong Kong\
+ , Shenzhen and Macau. Eligibility: full-time university students in Hong K
+ ong from all majors. Register: surveymonkey.com/r/3YLVRCS. Finance/fintech
+  programme rather than an engineering one; the deadline is recorded\, appl
+ ying is his.
+CATEGORIES:Opportunity
 END:VEVENT
 END:VCALENDAR
