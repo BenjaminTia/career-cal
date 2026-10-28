@@ -1396,4 +1396,20 @@ DESCRIPTION:HKMU SAO (Student Career Development) <career@hkmu.edu.hk>\, \"
  ying is his.
 CATEGORIES:Opportunity
 END:VEVENT
+BEGIN:VEVENT
+UID:autodesk-fusion-webinar-20261029@hkmu
+DTSTAMP:20261028T111212Z
+DTSTART;TZID=Asia/Hong_Kong:20261029T120000
+DTEND;TZID=Asia/Hong_Kong:20261029T130000
+SUMMARY:Autodesk Fusion webinar - What's New in Fusion (registered) 12:00 H
+ KT
+DESCRIPTION:Zoom webinar confirmation for \"What's New in Autodesk Fusion: 
+ Features You May Have Missed\"\, received 28 Oct 2026 03:35 HKT. The mail 
+ states the start as \"Oct 29\, 2026 09:30 AM Mumbai\, Kolkata\, New Delhi\
+ " = 12:00 HKT\; the duration is NOT stated\, so one hour is assumed. Webin
+ ar ID 950 7946 3228\, passcode 504581. Subject: Fusion updates released ov
+ er the past six months across design\, engineering\, manufacturing and col
+ laboration. Registration was his own.
+CATEGORIES:Skills
+END:VEVENT
 END:VCALENDAR
