@@ -1412,4 +1412,32 @@ DESCRIPTION:Zoom webinar confirmation for \"What's New in Autodesk Fusion:
  laboration. Registration was his own.
 CATEGORIES:Skills
 END:VEVENT
+BEGIN:VEVENT
+UID:hkicc-2026-physical-ai-20261110@benjamintia
+DTSTAMP:20261029T110540Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:HKICC 2026 - Physical AI Orchestration for Autonomous Robotic Syste
+ ms (10 Nov PM) - free to attend
+LOCATION:Room S221\, 2/F Old Wing\, HKCEC\, Wan Chai
+DESCRIPTION:Hong Kong Computer Society flagship conference HKICC 2026. IEEE
+  Hong Kong Section is a Supporting Organization and sent this to members (
+ IEEE eNotice\, "Shared Event: HKCS's HKICC 2026 on 9-10 Nov\, Free to Atte
+ nd"\, received 28 Oct 2026 21:47 HKT). Theme\, verbatim: "Hong Kong's Next
+  5 Years: from AI+ to Competitive Advantage". Date: 9-10 November 2026 (Mo
+ n & Tue)\, venue S221\, 2/F Old Wing\, HKCEC\, Wan Chai. Admission is free
+ . Four half-day sessions: 9 Nov AM "From AI+ to Competitive Advantage"\; 9
+  Nov PM "Resilience in the Age of AI and Quantum"\; 10 Nov AM "How AI Is R
+ einventing Enterprise\, Work\, and Trust"\; 10 Nov PM "Physical AI Orchest
+ ration for Autonomous Robotic Systems". This marker covers 10 Nov only bec
+ ause the PM session is the one in his embodied-AI lane\; the 9 Nov session
+ s are also open to him. No session times are stated\, so the day is all-da
+ y and the hour is TBC. Registration\, verbatim: "Go to https://hkicc.hkcs.
+ org.hk/ and reserve your pass. Seats are limited for each session." Regist
+ ering and attending are his\; nothing was registered by the assistant.
+CATEGORIES:HKICC 2026,Conference,Robotics
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://hkicc.hkcs.org.hk/
+END:VEVENT
 END:VCALENDAR
