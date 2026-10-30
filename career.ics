@@ -1441,4 +1441,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://hkicc.hkcs.org.hk/
 END:VEVENT
+BEGIN:VEVENT
+UID:0ac508b8f7250beb62d9ec3498657a5d@hkmu
+DTSTAMP:20261030T110758Z
+DTSTART;TZID=Asia/Hong_Kong:20261112T235900
+DTEND;TZID=Asia/Hong_Kong:20261112T235900
+SUMMARY:Bangkok Career Exploration Tour (4-8 Jan 2027) - application DUE Th
+ u 12 Nov 23:59
+DESCRIPTION:HKMU SAO (Student Career Development) career@hkmu.edu.hk\, "(RE
+ SEND) (12/11 截止) 曼谷職業探索之旅：泰國創意與創新經
+ 濟"\, received 30 Oct 2026 10:59 HKT. Quoted deadline: "即日起至2026
+ 年11月12日 (四)\, 23:59". Five weekdays in Bangkok 4-8 Jan 2027 - HK 
+ Economic and Trade Office\, HK and Chinese firms in Thailand\, Thai unive
+ rsities and startups. Eligibility: "香港都會大學全日制本科學
+ 生". Interview 18-20 Nov\; offers 23 Nov\; trip fee by 27 Nov\; pre-trip
+  workshop Sat 5 Dec\; report and survey late Jan 2027. Cost: HK$1000 refu
+ ndable deposit plus HK$2500 non-refundable (30% of trip cost\; SAO funds 
+ 70%). Fit note: creative/innovation economy\, not engineering - the value
+  is the firm visits and international exposure.
+CATEGORIES:Career
+URL:https://hkmu.qualtrics.com/jfe/form/SV_8dCynbI48YUJ97U
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
