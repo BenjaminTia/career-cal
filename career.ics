@@ -1463,4 +1463,26 @@ CATEGORIES:Career
 URL:https://hkmu.qualtrics.com/jfe/form/SV_8dCynbI48YUJ97U
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techathon+ - review patent summary and prepare handoff to Kitty
+DTSTART;TZID=Asia/Hong_Kong:20261102T153000
+DTEND;TZID=Asia/Hong_Kong:20261102T170000
+DTSTAMP:20261101T102857Z
+UID:techathon-patent-review-handoff-20261102@hkmu
+CATEGORIES:Techathon,Work
+DESCRIPTION:Review the already-cleaned HK/US patent comparison and prepare
+  Benjamin's own handoff to Kitty. Research and editorial cleanup are alrea
+ dy done\; this is not a new search. No upload or sharing performed by the 
+ assistant. Existing 4 November deadline marker is unchanged.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+URL:https://docs.google.com/document/d/1bh7FmnWmInB2lc8NzB3IrSGJgRAbm7JSbe
+ noOP2671U/edit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Techathon+ - review patent summary and prepare handoff to Kitt
+ y
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
