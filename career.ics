@@ -1588,4 +1588,82 @@ TRIGGER:-PT90M
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HKSEC Training Workshop 1 / Social Innovation Daycamp — FULL\; a
+ ttendance unconfirmed
+DTSTART;TZID=Asia/Hong_Kong:20261107T100000
+DTEND;TZID=Asia/Hong_Kong:20261107T160000
+DTSTAMP:20261102T115603Z
+UID:hksec-2026-workshop1-20261107@benjamintia
+SEQUENCE:0
+CATEGORIES:HKSEC
+CREATED:20261102T115603Z
+DESCRIPTION:Organiser welcome email dated 27 Oct 2026: individual registra
+ tion required\, originally by 4 Nov (no closing time stated). Live registr
+ ation form checked 2 Nov 2026: "The registration for the HKSEC 2026-27 1st
+  round Training Workshop & Mixer Gather is closed as all available seats h
+ ave already been reserved." Attendance/seat is NOT confirmed. A workshop r
+ ecording will be uploaded to the HKSEC website afterward. Calendar entry r
+ equested by Benjamin\; not a registration or attendance confirmation. Chec
+ k-in from 09:30. Conflicts with Huawei certificate collection 11:00–12:0
+ 0 and the existing COMP3500 preparation block.
+LAST-MODIFIED:20261102T115603Z
+LOCATION:TriAngle\, Room 306\, 3/F\, David C. Lam Building\, Hong Kong Bap
+ tist University
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://forms.gle/MKAz38zqAwjJM6rH8
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:HKSEC Mixer Gathering 1 — FULL\; attendance unconfirmed
+DTSTART;TZID=Asia/Hong_Kong:20261107T163000
+DTEND;TZID=Asia/Hong_Kong:20261107T183000
+DTSTAMP:20261102T115603Z
+UID:hksec-2026-mixer1-20261107@benjamintia
+SEQUENCE:0
+CATEGORIES:HKSEC
+CREATED:20261102T115603Z
+DESCRIPTION:Organiser welcome email dated 27 Oct 2026: individual registra
+ tion required\, originally by 4 Nov (no closing time stated). Live registr
+ ation form checked 2 Nov 2026: "The registration for the HKSEC 2026-27 1st
+  round Training Workshop & Mixer Gather is closed as all available seats h
+ ave already been reserved." Attendance/seat is NOT confirmed. A workshop r
+ ecording will be uploaded to the HKSEC website afterward. Calendar entry r
+ equested by Benjamin\; not a registration or attendance confirmation. Chec
+ k-in from 16:00.
+LAST-MODIFIED:20261102T115603Z
+LOCATION:TriAngle\, Room 306\, 3/F\, David C. Lam Building\, Hong Kong Bap
+ tist University
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://forms.gle/MKAz38zqAwjJM6rH8
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:HKSEC workshop + mixer — original registration deadline\; ALREAD
+ Y FULL
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261102T115603Z
+UID:hksec-2026-workshop-mixer-registration-20261104@benjamintia
+SEQUENCE:0
+CATEGORIES:HKSEC
+CREATED:20261102T115603Z
+DESCRIPTION:Organiser welcome email dated 27 Oct 2026: individual registra
+ tion required\, originally by 4 Nov (no closing time stated). Live registr
+ ation form checked 2 Nov 2026: "The registration for the HKSEC 2026-27 1st
+  round Training Workshop & Mixer Gather is closed as all available seats h
+ ave already been reserved." Attendance/seat is NOT confirmed. A workshop r
+ ecording will be uploaded to the HKSEC website afterward. Calendar entry r
+ equested by Benjamin\; not a registration or attendance confirmation. Orig
+ inal deadline only\; registration already closed for capacity. Closing tim
+ e was not specified (TIME TBC)\; this is not an actionable open registrati
+ on reminder.
+LAST-MODIFIED:20261102T115603Z
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://forms.gle/MKAz38zqAwjJM6rH8
+END:VEVENT
+
 END:VCALENDAR
