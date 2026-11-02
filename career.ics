@@ -1485,4 +1485,107 @@ DESCRIPTION:Techathon+ - review patent summary and prepare handoff to Kitt
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:d8975ceb78c5d0e829a5eb89f7d0f463@hkmu
+DTSTAMP:20261102T110618Z
+DTSTART;TZID=Asia/Hong_Kong:20261107T110000
+DTEND;TZID=Asia/Hong_Kong:20261107T120000
+SUMMARY:Huawei ICT 2026-27 Certificate of Participation - collect (Sat 7 No
+ v\, 11:00-12:00\, TST)
+DESCRIPTION:Huawei ICT Competition HK SAR Organisation Team email (prmtalen
+ t@huawei.com)\, subject "Collection of Huawei ICT Competition 2026-2027 Ce
+ rtificate of Participation"\, received 2 Nov 2026 11:46 HKT\, verbatim: "y
+ our Certificate of Participation is now ready for collection" and "Nonfina
+ list should collect your certificate at the following location during one 
+ of the two designated time slots below: Option 1 - 7 November 2026 (Saturd
+ ay)\, 11:00AM-12:00PM\, 26th Floor\, Tower 6\, The Gateway\, No. 9 Canton 
+ Road\, Tsim Sha Tsui\, Kowloon\, Hong Kong". Alternative slot quoted: "Opt
+ ion 2 - 28 November 2026 (Saturday)\, 3:30PM - 4:30PM\, Conference Hall\, 
+ 4/F\, HKPC Building\, 78 Tat Chee Avenue\, Kowloon\, Hong Kong". Bring stu
+ dent ID card for verification (mail: "Please remember to bring your studen
+ t ID card for verification purposes"). Queries: Ms Shannon Pang\, pang.kei
+ .ka@h-partners.com. Caveat: the mail says "Finalists may collect your cert
+ ificate of participation after the Hong Kong SAR Final Stage Examination e
+ nds on 7 November 2026" - if you advanced to the HK final stage\, this 7 N
+ ov slot is not yours and you collect after the final instead.
+CATEGORIES:Huawei
+LOCATION:26th Floor\, Tower 6\, The Gateway\, No. 9 Canton Road\, Tsim Sha 
+ Tsui\, Kowloon
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f236b086293e1ffc4d9973e053cc096d@hkmu
+DTSTAMP:20261102T110618Z
+DTSTART;TZID=Asia/Hong_Kong:20261117T235900
+DTEND;TZID=Asia/Hong_Kong:20261117T235900
+SUMMARY:EOC Equal Opportunity Youth Ambassador Scheme 2026/27 - application
+  DUE Tue 17 Nov
+DESCRIPTION:HKMU SAO Student Community Engagement (saoce@hkmu.edu.hk) forwa
+ rding the Equal Opportunities Commission scheme\, subject "Invitation to J
+ oin Equal Opportunity Youth Ambassador Scheme 2026/27"\, received 2 Nov 20
+ 26 16:27 HKT\, verbatim: "The Scheme is now open for application till 17 N
+ ovember 2026 (Tuesday). All full-time students who are studying diploma co
+ urses or above can join the Scheme." Rewards quoted: "A certificate issued
+  by the EOC"\, "A reference letter signed by EOC Chairperson"\, "Online cr
+ edential on Youth Ambassadors' LinkedIn". Details: www.eoc.org.hk/youth. T
+ he mail gives a date only\, no cut-off time - 23:59 is a placeholder. Exte
+ rnal-organiser programme forwarded by SAO\; terms and execution sit with t
+ he EOC.
+CATEGORIES:Career
+LOCATION:Online application
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d10dcb95a7cc0d6e16635e62cbc926d2@hkmu
+DTSTAMP:20261102T110618Z
+DTSTART;TZID=Asia/Hong_Kong:20261113T143000
+DTEND;TZID=Asia/Hong_Kong:20261113T163000
+SUMMARY:HKMU Pre-Hackathon: Generative AI for PowerPoint workshop (Fri 13 N
+ ov\, 14:30-16:30\, JCC)
+DESCRIPTION:HKMU SAO Student Entrepreneurship (saomc@hkmu.edu.hk) to all_st
+ udent\, subject "Get Hands-on AI Experience - Join HKMU Pre-Hackathon Acti
+ vities"\, received 2 Nov 2026 10:37 HKT\, verbatim: "Generative AI for Pow
+ erPoint Workshop ... Date 13 Nov 2026 (Fri) ... Time 14:30 - 16:30 ... Ven
+ ue JCC ... Language English ... Trainer Dr. Jackei Wong". Free\, seats lim
+ ited\; registration required at https://hkmu.qualtrics.com/jfe/form/SV_4GH
+ 2mk8ehIMGJDg - the mail states "Participation is free\, but seats are limi
+ ted" and "Successful applicants will receive a confirmation email within 4
+  days before the event date". No registration deadline stated. Related to 
+ HKMU Hackathon 2027 (application DUE 16 Dec\, already on this calendar).
+CATEGORIES:Hackathon
+LOCATION:Jockey Club Campus (JCC)\, HKMU
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3f0b5cabb38a28e272d3b2e11b053300@hkmu
+DTSTAMP:20261102T110618Z
+DTSTART;TZID=Asia/Hong_Kong:20261202T133000
+DTEND;TZID=Asia/Hong_Kong:20261202T163000
+SUMMARY:HKMU Pre-Hackathon: AI Vibe Coding workshop (Wed 2 Dec\, 13:30-16:3
+ 0\, JCC)
+DESCRIPTION:HKMU SAO Student Entrepreneurship (saomc@hkmu.edu.hk) to all_st
+ udent\, subject "Get Hands-on AI Experience - Join HKMU Pre-Hackathon Acti
+ vities"\, received 2 Nov 2026 10:37 HKT\, verbatim: "AI Vibe Coding Worksh
+ op ... Date 2 Dec 2026 (Wed) ... Time 13:30 - 16:30 ... Venue JCC ... Lang
+ uage English ... Trainer Dr Patrick Tsoi". Free\, seats limited\; register
+  at https://hkmu.qualtrics.com/jfe/form/SV_4GH2mk8ehIMGJDg. No registratio
+ n deadline stated. Third session in the same programme is an industry part
+ ner company visit on 23 Nov (Mon) 14:00-17:30 in Cantonese - not recorded 
+ here.
+CATEGORIES:Hackathon
+LOCATION:Jockey Club Campus (JCC)\, HKMU
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
 END:VCALENDAR
