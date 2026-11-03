@@ -1666,4 +1666,26 @@ TRANSP:TRANSPARENT
 URL:https://forms.gle/MKAz38zqAwjJM6rH8
 END:VEVENT
 
+BEGIN:VEVENT
+UID:hkstp-techathon-aws-workshop-20261120@hkmu
+DTSTAMP:20261103T110449Z
+DTSTART;TZID=Asia/Hong_Kong:20261120T150000
+DTEND;TZID=Asia/Hong_Kong:20261120T183000
+SUMMARY:Techathon+ x AWS Technical Hands-on Workshop & Mixer (Fri 20 Nov 15
+ :00-18:30)
+CATEGORIES:Techathon\,Workshop
+URL:https://hkstp.wufoo.com/forms/p1e9fc2y12fohmo/
+DESCRIPTION:HKMU SAO (Student Entrepreneurship) saomc@hkmu.edu.hk\, "Regist
+ er Now - HKSTP Techathon+ 2027 x AWS Technical Hands-on Workshop & Mixer (
+ 20 Nov)"\, received 3 Nov 2026 14:53 HKT. Quoted: "Register Now at https:/
+ /hkstp.wufoo.com/forms/p1e9fc2y12fohmo/" and "Quotas limited. Email confir
+ mation will be sent to those who are successfully enrolled." Programme: 3:
+ 00PM registration\; 3:30-5:45PM welcome then AWS for Startups (Alex Fung) 
+ and hands-on with Amazon Quick (Wilson Cheung)\; 5:45-6:30PM networking wi
+ th AWS\, HKSTP and Techathon+ teams. Certificate of attendance for all att
+ endees\; bring a laptop\; no prep required. No registration deadline state
+ d. Venue not stated in the mail. Related to Techathon+ 2027 (finale 28-31 
+ Jan 2027). Registering is his.
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
