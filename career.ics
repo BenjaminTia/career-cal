@@ -1614,7 +1614,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://forms.gle/MKAz38zqAwjJM6rH8
 END:VEVENT
-
 BEGIN:VEVENT
 SUMMARY:HKSEC Mixer Gathering 1 — FULL\; attendance unconfirmed
 DTSTART;TZID=Asia/Hong_Kong:20261107T163000
@@ -1639,7 +1638,6 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://forms.gle/MKAz38zqAwjJM6rH8
 END:VEVENT
-
 BEGIN:VEVENT
 SUMMARY:HKSEC workshop + mixer — original registration deadline\; ALREAD
  Y FULL
@@ -1665,7 +1663,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://forms.gle/MKAz38zqAwjJM6rH8
 END:VEVENT
-
 BEGIN:VEVENT
 UID:hkstp-techathon-aws-workshop-20261120@hkmu
 DTSTAMP:20261103T110449Z
@@ -1687,5 +1684,45 @@ DESCRIPTION:HKMU SAO (Student Entrepreneurship) saomc@hkmu.edu.hk\, "Regist
  d. Venue not stated in the mail. Related to Techathon+ 2027 (finale 28-31 
  Jan 2027). Registering is his.
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:iot-data-hackathon-2027-application-20261220@hkmu
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:IOT Data Hackathon 2027 - application DUE Sun 20 Dec
+DESCRIPTION:GS1 Hong Kong / HKMU SAO (Student Entrepreneurship) saomc@hkmu.
+ edu.hk\, 'IOT Data Hackathon 2027 - Call for Entries! - Application Deadli
+ ne: 20 Dec 2026'\, 4 Nov 2026 13:58 HKT. Verbatim: 'Application Deadline: 
+ 20 December 2026' / 'Initial Proposal Submission: 15 February 2027' / 'Hac
+ kathon & Pitch Day: 20 & 21 March 2027'. Student Stream: current tertiary 
+ students\, with at least one member studying at a Hong Kong tertiary insti
+ tution. Themes: Data for Business\, Data for Good. Student Stream form: ht
+ tps://docs.google.com/forms/d/e/1FAIpQLSfUZ7BsH3Bo_BjWZv265sS1sS28fOsqjx3R
+ oA3o2HrduN0svQ/viewform . No closing hour is printed in the mail\, so this
+  is an all-day marker with TIME TBC.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-international-talents-festival-20261107@hkmu
+DTSTAMP:20261104T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261107T093000
+DTEND;TZID=Asia/Hong_Kong:20261107T180000
+SUMMARY:Hong Kong International Talents Festival 2026 - career fair (Hopewe
+ ll Hotel\, Wan Chai)
+LOCATION:Grand Ballroom\, 16/F\, Hopewell Hotel\, 15 Kennedy Road\, Wan Cha
+ i\, Hong Kong
+DESCRIPTION:HKMU SAO (Student Career Development) career@hkmu.edu.hk\, '202
+ 6香港國際人才節 Hong Kong International Talents Festival 2026 (7 No
+ v 2026)'\, 4 Nov 2026 09:51 HKT. Verbatim: '7 November 2026 (Saturday)' / 
+ '09:30 - 18:00'. Talent Recruitment Zone with full-time\, internship and t
+ rainee openings across finance\, innovation and technology\, arts and cult
+ ure\, trade\, shipping\, aviation\, law and intellectual property\; also p
+ olicy talks and roundtables. An entry pass requires registration: https://
+ www.tgather.cn/registration-form/6aa39163ec670f37ab122748 . Clashes with H
+ KSEC Training Workshop 1 / Social Innovation Daycamp (10:00-16:00) and Mix
+ er Gathering 1 (16:30-18:30) already on this calendar\; both were full wit
+ h no seat confirmed.
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
