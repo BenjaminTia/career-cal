@@ -1725,4 +1725,23 @@ DESCRIPTION:HKMU SAO (Student Career Development) career@hkmu.edu.hk\, '202
  h no seat confirmed.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:zhuhai-seedling-phase3-industrial-visit-20261106@career
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zhuhai seedling programme Phase 3 - industrial visit (2 days)
+DESCRIPTION:Invitation via Kitty Lau\; accepted 4 Nov 2026. Programme runs 
+ 6-7 Nov in Zhuhai: day 1 Kingsoft Software Park\, Zhuhai CAS Institute of 
+ Advanced Technology\, and the Zhuhai Embodied Intelligence Application Inn
+ ovation Centre built with AgiBot\; day 2 Hengqin cooperation zone exhibiti
+ on hall and Zhenjankang Medical (surgical robots). Talks by company execut
+ ives and R&D leads\; Kitty's advice is to introduce yourself and ask quest
+ ions\, since the value depends on engagement. Session times start 09:00 in
+  Zhuhai\; travel arrangement\, departure point and any overnight stay are 
+ NOT yet confirmed\, so ask Kitty. Clashes with Dr Tong workshop on Fri 6 N
+ ov\, which Benjamin is declining. Exam context: ELEC 3630 midterm Thu 12 N
+ ov. Source: programme PDF sent by Kitty\, translated 4 Nov 2026.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
