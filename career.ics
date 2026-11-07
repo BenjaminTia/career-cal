@@ -1487,30 +1487,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d8975ceb78c5d0e829a5eb89f7d0f463@hkmu
-DTSTAMP:20261102T110618Z
-DTSTART;TZID=Asia/Hong_Kong:20261107T110000
-DTEND;TZID=Asia/Hong_Kong:20261107T120000
-SUMMARY:Huawei ICT 2026-27 Certificate of Participation - collect (Sat 7 No
- v\, 11:00-12:00\, TST)
+DTSTAMP:20261107T111504Z
+DTSTART;TZID=Asia/Hong_Kong:20261128T153000
+DTEND;TZID=Asia/Hong_Kong:20261128T163000
+SUMMARY:Huawei ICT 2026-27 Certificate of Participation - collect (Sat 28 N
+ ov\, 15:30-16:30\, HKPC Kowloon Tong)
 DESCRIPTION:Huawei ICT Competition HK SAR Organisation Team email (prmtalen
  t@huawei.com)\, subject "Collection of Huawei ICT Competition 2026-2027 Ce
- rtificate of Participation"\, received 2 Nov 2026 11:46 HKT\, verbatim: "y
- our Certificate of Participation is now ready for collection" and "Nonfina
- list should collect your certificate at the following location during one 
- of the two designated time slots below: Option 1 - 7 November 2026 (Saturd
- ay)\, 11:00AM-12:00PM\, 26th Floor\, Tower 6\, The Gateway\, No. 9 Canton 
- Road\, Tsim Sha Tsui\, Kowloon\, Hong Kong". Alternative slot quoted: "Opt
- ion 2 - 28 November 2026 (Saturday)\, 3:30PM - 4:30PM\, Conference Hall\, 
- 4/F\, HKPC Building\, 78 Tat Chee Avenue\, Kowloon\, Hong Kong". Bring stu
- dent ID card for verification (mail: "Please remember to bring your studen
- t ID card for verification purposes"). Queries: Ms Shannon Pang\, pang.kei
- .ka@h-partners.com. Caveat: the mail says "Finalists may collect your cert
- ificate of participation after the Hong Kong SAR Final Stage Examination e
- nds on 7 November 2026" - if you advanced to the HK final stage\, this 7 N
- ov slot is not yours and you collect after the final instead.
+ rtificate of Participation"\, received 2 Nov 2026 11:46 HKT. This entry is
+  Option 2\, quoted verbatim from the mail table: "2 | 28 November 2026 (Sa
+ turday) | 3:30PM - 4:30PM | Conference Hall\, 4/F\, HKPC Building\, 78 Tat
+  Chee Avenue\, Kowloon\, Hong Kong". Option 1 (7 November 2026 Saturday\, 
+ 11:00AM-12:00PM\, 26th Floor\, Tower 6\, The Gateway\, No. 9 Canton Road\,
+  Tsim Sha Tsui) was MISSED: this entry was retimed on the evening of 7 Nov
+  2026 after that slot had already ended\, so only Option 2 remains. The ve
+ nue is NOT the same as Option 1 - this slot is at HKPC Building\, 78 Tat C
+ hee Avenue (Kowloon Tong)\, not The Gateway in Tsim Sha Tsui. Bring studen
+ t ID card for verification (mail: "Please remember to bring your student I
+ D card for verification purposes"). Queries: Ms Shannon Pang\, pang.kei.ka
+ @h-partners.com. Caveat: the mail directs nonfinalists to the two slots an
+ d adds "Finalists may collect your certificate of participation after the 
+ Hong Kong SAR Final Stage Examination ends on 7 November 2026"\; either wa
+ y this 28 Nov slot falls after that exam.
 CATEGORIES:Huawei
-LOCATION:26th Floor\, Tower 6\, The Gateway\, No. 9 Canton Road\, Tsim Sha 
- Tsui\, Kowloon
+LOCATION:Conference Hall\, 4/F\, HKPC Building\, 78 Tat Chee Avenue\, Kowlo
+ on
 BEGIN:VALARM
 TRIGGER:-PT90M
 ACTION:DISPLAY
