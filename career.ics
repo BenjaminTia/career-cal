@@ -1487,7 +1487,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d8975ceb78c5d0e829a5eb89f7d0f463@hkmu
-DTSTAMP:20261107T111504Z
+DTSTAMP:20261107T111814Z
 DTSTART;TZID=Asia/Hong_Kong:20261128T153000
 DTEND;TZID=Asia/Hong_Kong:20261128T163000
 SUMMARY:Huawei ICT 2026-27 Certificate of Participation - collect (Sat 28 N
@@ -1508,7 +1508,14 @@ DESCRIPTION:Huawei ICT Competition HK SAR Organisation Team email (prmtalen
  @h-partners.com. Caveat: the mail directs nonfinalists to the two slots an
  d adds "Finalists may collect your certificate of participation after the 
  Hong Kong SAR Final Stage Examination ends on 7 November 2026"\; either wa
- y this 28 Nov slot falls after that exam.
+ y this 28 Nov slot falls after that exam. CONFLICT on the same day: the UN
+ I 2002BEW compulsory Day School for group T48 runs 28 Nov 2026 13:00-16:00
+  at Grand Ballroom\, New World Millennium Hong Kong Hotel\, 72 Mody Road\,
+  Tsim Sha Tsui East\, and the course leader states absence is an automatic
+  fail. It overlaps the first 30 minutes of this collection window\, leavin
+ g only 16:00-16:30 free here\, and the two venues are in different distric
+ ts (Tsim Sha Tsui East vs Kowloon Tong). This note records the clash only\
+ ; no travel time is assumed and no change was made to the Day School.
 CATEGORIES:Huawei
 LOCATION:Conference Hall\, 4/F\, HKPC Building\, 78 Tat Chee Avenue\, Kowlo
  on
