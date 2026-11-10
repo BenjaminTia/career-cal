@@ -1778,4 +1778,23 @@ DESCRIPTION:HKMU Student Affairs Office (Financial Assistance) sao_sfs@hkmu
  e 9 Nov 19:00 mail scan\; applying is his.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hkmuvb-open-house-registration-20261120@hkmu
+DTSTAMP:20261110T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261120T120000
+DTEND;TZID=Asia/Hong_Kong:20261120T120000
+SUMMARY:HKMU Venturebuild Open House (4 Dec) - registration closes Fri 20 N
+ ov 12:00
+DESCRIPTION:HKMU Venturebuild <venturebuild@hkmu.edu.hk>\, "Open House Cons
+ ultation | Talent & Innovation Matchmaking"\, received Mon 9 Nov 2026 18:5
+ 4 HKT. Registration close\, verbatim: "Registration close on 20 November (
+ Fri) at 12:00 Noon." Event\, from the mail poster: "From Research to Ventu
+ re: Talent & Innovation Matchmaking"\, 4 December 2026 (Fri)\, 2:00-4:00 P
+ M\, Active Learning Space\, 1/F\, Stanley Ho Library\, HKMU Main Campus. 1
+ 5-minute 1-on-1 matching sessions\; limited slots\; light refreshments. Re
+ gister via the link in the mail. Fit: research-backed innovations and earl
+ y-stage ventures.
+CATEGORIES:Career
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
