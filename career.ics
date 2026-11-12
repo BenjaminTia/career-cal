@@ -1797,4 +1797,45 @@ DESCRIPTION:HKMU Venturebuild <venturebuild@hkmu.edu.hk>\, "Open House Cons
 CATEGORIES:Career
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:roa-b-spss-20261130@hkmu
+DTSTAMP:20261130T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261130T235900
+DTEND;TZID=Asia/Hong_Kong:20261130T235900
+SUMMARY:Reaching Out Award (ROA-B) 2026/27 - application DUE Mon 30 Nov
+CATEGORIES:Scholarships
+DESCRIPTION:SAO (Scholarships) sao_sch@hkmu.edu.hk\, subject "[Deadline 30 
+ Nov] Reaching Out Award (ROA-B) under SPSS 政府自資專上獎學金計
+ 劃 -外展體驗獎 （ROA-B）2026/27"\, received Thu 12 Nov 2026 10:00 
+ HKT\; an [Updated] copy followed at 10:33 with the same date. Quoted wordi
+ ng: "Reaching Out Award (ROA-B) HK$10\,000@ (For students participating in
+  self-sourced learning activities outside Hong Kong\, i.e. activities NOT 
+ organised or arranged by HKMU)" and deadline "30 November 2026 (Monday)". 
+ The mail prints no clock time\; 23:59 is this feed convention. Printed eli
+ gibility gate: "CGPA of not less than 3.0/4.0 or 3.22/4.3". Application de
+ tails: hkmu.edu.hk/sao/sch/ft-spss/ (SPSS - Reaching Out Award ROA-B strea
+ m). Submitting is his own.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:glas-2026-27-round1-20261130@hkmu
+DTSTAMP:20261130T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261130T235900
+DTEND;TZID=Asia/Hong_Kong:20261130T235900
+SUMMARY:HKMU Global Learning Award Scheme 2026/27 (round 1) - application D
+ UE Mon 30 Nov
+CATEGORIES:Scholarships
+DESCRIPTION:SAO (Scholarships) sao_sch@hkmu.edu.hk\, subject "(First-round 
+ Application) HKMU Global Learning Award Scheme 2026/27 香港都會大學
+ 環球學習獎勵計劃"\, received Wed 11 Nov 2026 16:01 HKT. Quoted wor
+ ding: "First-round Application Deadline: 30 November 2026 (Monday)"\; the 
+ scheme sponsors self-sourced global learning activities "held between 1 De
+ cember 2026 and 31 March 2027"\, sponsorship up to HK$10\,000. Second roun
+ d opens in March 2027 for activities 1 April to 31 August 2027. No clock t
+ ime is printed\; 23:59 is this feed convention. Details: hkmu.edu.hk/sao/s
+ ch/glas/. Submitting is his own.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
