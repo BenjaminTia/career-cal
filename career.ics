@@ -1838,4 +1838,46 @@ DESCRIPTION:SAO (Scholarships) sao_sch@hkmu.edu.hk\, subject "(First-round
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hkmu-startupfund-vpc-reg-20261130@hkmu
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:HKMU Entrepreneurship Training (VPC) - registration DUE Mon 30 Nov
+DESCRIPTION:Registration closes for the HKMU Startup Fund training “Craft
+ ing Customer-centric Solutions with the Value Proposition Canvas”\, sess
+ ion Mon 7 Dec 2026\, 14:00-16:00\, Active Learning Space\, 1/F Stanley Ho 
+ Library\, Main Campus. HKMU Startup Fund (startupfund@hkmu.edu.hk)\, mail 
+ received 16 Nov 2026 09:29 HKT\, verbatim: “Register by 30 November 2026
+  (Monday)”. No closing hour is printed\, so the time is TBC. The session
+  itself is a separate event on this feed\; registering is his.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hkmu-startupfund-vpc-training-20261207@hkmu
+DTSTAMP:20261116T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261207T140000
+DTEND;TZID=Asia/Hong_Kong:20261207T160000
+SUMMARY:HKMU Entrepreneurship Training: Value Proposition Canvas (Mon 7 Dec
+ \, 14:00-16:00)
+DESCRIPTION:HKMU Startup Fund (startupfund@hkmu.edu.hk)\, “[INVITATION] H
+ KMU Entrepreneurship Training: Crafting Customer-centric Solutions with th
+ e Value Proposition Canvas - 7 Dec 2026”\, received 16 Nov 2026 09:29 HK
+ T. Verbatim: “7 December 2026 (Monday)” / “2:00 pm – 4:00 pm” / 
+ venue “Active Learning Space\, 1/F\, Stanley Ho Library\, Block C\, Main
+  Campus\, 30 Good Shepherd Street\, Ho Man Tin\, Kowloon” / speaker “M
+ r. Fred Yung\, Founder of Smart Start” / “Register by 30 November 2026
+  (Monday)”. Covers a one-minute elevator pitch\, the Value Proposition C
+ anvas and a combined product proposal. Registration not submitted\; regist
+ ering is his. Warning: 7 Dec is the first day of the 7-27 Dec exam period\
+ , so check the Examination Centre Notification for a clash before committi
+ ng the afternoon.
+CATEGORIES:Entrepreneurship
+LOCATION:Active Learning Space\, 1/F\, Stanley Ho Library\, Block C\, Main 
+ Campus\, HKMU\, 30 Good Shepherd Street\, Ho Man Tin
+BEGIN:VALARM
+TRIGGER:-PT90M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
 END:VCALENDAR
