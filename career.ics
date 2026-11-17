@@ -1880,4 +1880,60 @@ TRIGGER:-PT90M
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:youth-mentorship-2026-reg-20261124@hkmu
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:2026 Youth Voyage Mentorship (2nd round) - registration DUE Tue 24 
+ Nov
+DESCRIPTION:HKMU SAO (Student Career Development) career@hkmu.edu.hk\, subj
+ ect 「香港青聯學生交流網絡 2026年度旗艦活動｜2026青年
+ 展航師友計劃第二輪招募 - 現正接受報名」\, received 17 No
+ v 2026 14:00 HKT. Verbatim: 「報名截止：2026年11月24日（星期
+ 二）」 and 「面試日期：2026年11月29日（星期日）」. One-y
+ ear one-to-one mentorship with industry mentors\; eligibility 「香港各
+ 大專院校全日制學生」\; completion gives priority for the network
+ 's exchange tours and summer internship scheme. Membership of the network 
+ and its fee apply only after interview selection. Chinese-only programme. 
+ No closing hour printed\, so the time is TBC. Applying is his.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gba-youth-study-tour-2027-reg-20261126@hkmu
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:GBA youth study tour 2027 (6-8 Jan) - registration DUE Thu 26 Nov
+DESCRIPTION:HKMU SAO (Student Career Development) career@hkmu.edu.hk\, subj
+ ect 「【誠邀參加】「香港中華總商會-香港大專院校青年
+ 大灣區考察團 2027」(2027.1.6-8)」\, received 17 Nov 2026 10:58 HKT
+ . Verbatim: 「截止報名日期：2026年11月26日 (四)」. Trip 3 day
+ s 2 nights\, 6-8 Jan 2027\, Shenzhen / Dongguan / Guangzhou\, led by the C
+ hinese Chamber of Commerce education committee\; briefing in Dec 2026 with
+  date TBC\, wrap-up late Jan 2027. Cost HK$300 plus a HK$500 deposit refun
+ ded after the event. Eligibility 18-35 with a valid HK permanent ID or a v
+ alid HK resident ID while studying full-time in HK\, and at most two mainl
+ and exchange projects under the 2026-27 youth scheme. Successful applicant
+ s are contacted directly in December. No closing hour printed\, so the tim
+ e is TBC. Applying is his.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hash-ai-safety-china-apply-20261130@hkmu
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:AI Safety in China intensive (HASH) - application DUE Mon 30 Nov
+DESCRIPTION:HK AI Safety Hub newsletter (hkaisafetyhub+announcements@substa
+ ck.com)\, subject "AI Safety in China: free virtual weekend intensive\, ap
+ plications open until 30 Nov"\, received 17 Nov 2026 00:17 HKT. Verbatim: 
+ "Apply by 30 Nov (takes about 5 mins)" / "Sat 12 and Sun 13 Dec\, 9:30am t
+ o 12:30pm HK time" / "Online\, BlueDot format: pre-reading plus facilitate
+ d small-group discussion" / "One small cohort\, for people who already hav
+ e AI safety basics". Free virtual intensive on the Chinese AI ecosystem\; 
+ the same link takes a register-interest response if the dates do not work.
+  No closing hour printed\, so the time is TBC. Applying is his.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
