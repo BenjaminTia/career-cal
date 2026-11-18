@@ -1936,4 +1936,26 @@ DESCRIPTION:HK AI Safety Hub newsletter (hkaisafetyhub+announcements@substa
   No closing hour printed\, so the time is TBC. Applying is his.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:career-cigna-healthnext-apply-20261211@hkmu
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Cigna Healthcare x JA HealthNext Challenge 2026/27 - application DU
+ E Fri 11 Dec
+DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, subje
+ ct "Cigna Healthcare x JA HealthNext Challenge 2026/27 - Applications now 
+ Open! | 現正接受報名！"\, received Wed 18 Nov 2026 14:06 HKT. Verba
+ tim: "Apply by 11 December 2026" and "By forming a team of 4-6 to develop 
+ an innovative proposal to tackle healthcare challenges". The proposal must
+  cover all points in the template and be no more than 10 pages excluding a
+ ppendices. Prizes: Champion HK$50\,000\, 1st runner-up HK$30\,000\, 2nd ru
+ nner-up HK$15\,000\, plus internship opportunities. Organised by Junior Ac
+ hievement Hong Kong\, sponsored by Cigna Healthcare Hong Kong. No closing 
+ hour is printed\, so this is an all-day deadline marker - TIME TBC\, not t
+ he form own close. This mail is the full brief\; the 7 Nov SAO Career Week
+ ly table row carried only the date. 11 Dec falls inside the 7-27 Dec exam 
+ period\, and a team of 4-6 is needed. Applying is his.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
