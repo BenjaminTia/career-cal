@@ -1958,4 +1958,64 @@ DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, subje
  period\, and a team of 4-6 is needed. Applying is his.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:japan-internship-2027-briefing-registration-20261129@hkmu
+DTSTAMP:20261119T110646Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:HKMU Japan Internship Programme 2027 - briefing registration DUE Su
+ n 29 Nov
+DESCRIPTION:HKMU SAO (Student Career Development) career@hkmu.edu.hk\, "【
+ 線上簡介會 Online Briefing Session】都會大學日本實習計劃20
+ 27 HKMU Japan Internship Programme 2027"\, Thu 19 Nov 2026 15:26 HKT. Verb
+ atim: "Registration Link: HERE (Deadline: 29 November 2026\, Sunday)" and 
+ "Zoom (Zoom details will be provided after registration by 29 November 202
+ 6)". Briefing: Fri 4 Dec 2026\, 15:00-16:00\, Zoom\, English. Programme: s
+ eventh year\, placements with companies in Kyushu\, total fee JPY540\,000 
+ with the university covering JPY200\,000. Open to full-time undergraduates
+  with satisfactory CGPA\; the mail adds "*non-final year student are prefe
+ rable". The Reaching Out Award (HKMU-organised overseas activity stream) i
+ s cited as HK$10\,000 toward it\, closing 30 Nov. The mail prints no closi
+ ng hour\, so this is an all-day marker with TIME TBC. Registering is his.
+CATEGORIES:Internship
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:japan-internship-2027-briefing-session-20261204@hkmu
+DTSTAMP:20261119T110646Z
+DTSTART;TZID=Asia/Hong_Kong:20261204T150000
+DTEND;TZID=Asia/Hong_Kong:20261204T160000
+SUMMARY:HKMU Japan Internship Programme 2027 - online briefing (Zoom\, 15:0
+ 0-16:00)
+DESCRIPTION:Online briefing session for the HKMU Japan Internship Programme
+  2027\, Fri 4 Dec 2026 15:00-16:00\, Zoom\, language English. Agenda: prog
+ ramme introduction\, application details\, Q&A. Zoom details are released 
+ to registrants after registering (registration closes Sun 29 Nov 2026 - th
+ e mail prints the date only\, no closing hour). The programme application 
+ itself opens after the briefing. Source: HKMU SAO (Student Career Developm
+ ent) career@hkmu.edu.hk\, 19 Nov 2026 15:26 HKT.
+CATEGORIES:Internship
+LOCATION:Zoom
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cta1000-hk-open-2026-ticket-registration-20261120@hkmu
+DTSTAMP:20261119T110646Z
+DTSTART;TZID=Asia/Hong_Kong:20261120T090000
+DTEND;TZID=Asia/Hong_Kong:20261120T090000
+SUMMARY:CTA1000 Hong Kong Open 2026 - free student ticket registration DUE 
+ Fri 20 Nov 09:00
+DESCRIPTION:SAO (Sports and Physical Education) saosw@hkmu.edu.hk\, "[Limit
+ ed Free Tickets!] “CTA1000 Hong Kong Open 2026” (2026中國網球巡
+ 迴賽香港公開賽) – Phase 1"\, Thu 19 Nov 2026 16:44 HKT. Verbatim:
+  "Register by completing the online form by 20 November 2026\, 09:00" and 
+ "The tickets will be distributed on a first-come-first-served basis." HKMU
+  full-time students only\; successful registrants get e-tickets by email o
+ n 20 Nov and are required to attend. Tournament: 22-25 Nov 2026\, Victoria
+  Park Tennis Court\; opening ceremony cum celebrity match 15:00-17:00 on 2
+ 2 Nov\, competition 09:30-17:30 on 23-25 Nov. Form: https://hkmu.qualtrics
+ .com/jfe/form/SV_8caM3Ksx6h7nXWm . Registering is his.
+CATEGORIES:Event
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
