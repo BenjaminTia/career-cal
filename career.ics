@@ -2001,21 +2001,43 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cta1000-hk-open-2026-ticket-registration-20261120@hkmu
 DTSTAMP:20261119T110646Z
-DTSTART;TZID=Asia/Hong_Kong:20261120T090000
-DTEND;TZID=Asia/Hong_Kong:20261120T090000
-SUMMARY:CTA1000 Hong Kong Open 2026 - free student ticket registration DUE 
- Fri 20 Nov 09:00
-DESCRIPTION:SAO (Sports and Physical Education) saosw@hkmu.edu.hk\, "[Limit
- ed Free Tickets!] “CTA1000 Hong Kong Open 2026” (2026中國網球巡
- 迴賽香港公開賽) – Phase 1"\, Thu 19 Nov 2026 16:44 HKT. Verbatim:
-  "Register by completing the online form by 20 November 2026\, 09:00" and 
- "The tickets will be distributed on a first-come-first-served basis." HKMU
-  full-time students only\; successful registrants get e-tickets by email o
- n 20 Nov and are required to attend. Tournament: 22-25 Nov 2026\, Victoria
-  Park Tennis Court\; opening ceremony cum celebrity match 15:00-17:00 on 2
- 2 Nov\, competition 09:30-17:30 on 23-25 Nov. Form: https://hkmu.qualtrics
- .com/jfe/form/SV_8caM3Ksx6h7nXWm . Registering is his.
+DTSTART;TZID=Asia/Hong_Kong:20261122T235900
+DTEND;TZID=Asia/Hong_Kong:20261122T235900
+SUMMARY:CTA1000 Hong Kong Open 2026 - free student tickets\, Phase 2 regist
+ ration DUE Sun 22 Nov 23:59
+DESCRIPTION:SAO (Sports and Physical Education) <saosw@hkmu.edu.hk>\, "[Lim
+ ited Free Tickets!] CTA1000 Hong Kong Open 2026 (2026中國網球巡迴賽
+ 香港公開賽) - Phase 2"\, Fri 20 Nov 2026 12:59 HKT. Phase 2 adds tick
+ ets for more sessions after the overwhelming response. Verbatim: "For the 
+ competition on 26 November 2026 - 29 November 2026" / "complete the online
+  form by 22 November 2026\, 23:59"\; the 23 Nov session had its own earlie
+ r close\, "complete the online form by 20 November 2026\, 15:00". This mar
+ ker was originally the Phase 1 close (20 Nov 09:00)\, which has passed\; i
+ t is retimed to the live Phase 2 close rather than duplicated. Victoria Pa
+ rk Tennis Court\, 23-29 Nov\, 09:30-17:30. First come first served\; stude
+ nts who receive tickets are required to attend. Form: hkmu.qualtrics.com/j
+ fe/form/SV_8caM3Ksx6h7nXWm
 CATEGORIES:Event
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YDC Dare To Change Business Pitch 26/27 - registration DUE Fri 29 J
+ an 2027 17:00
+DTSTART;TZID=Asia/Hong_Kong:20270129T170000
+DTEND;TZID=Asia/Hong_Kong:20270129T170000
+DTSTAMP:20261120T110000Z
+UID:ydc-dare-to-change-2027-registration-20270129@hkmu
+CATEGORIES:YDC Competition
+DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, "青
+ 企局「敢闖。敢創」創業比賽 26/27現已接受報名！Register
+  to Join YDC Dare To Change Business Pitch Competition 26/27"\, Fri 20 Nov
+  2026 11:19 HKT. Verbatim: "Registration Deadline: 29 January 2027\, 5pm".
+  Free entry\; six-minute pitch to a judging panel\; open to all current fu
+ ll-time tertiary students in Hong Kong. Prizes up to HK$20\,000 plus refer
+ ral to the HKSTP IDEATION programme. Optional 30-minute Cantonese Zoom bri
+ efings: 12 Dec 2026 (register by 9 Dec 17:00) and 16 Jan 2027 (register by
+  13 Jan 17:00)\; the December one falls inside the 7-27 Dec exam period. A
+ lready carried in Rolling.md as a decide-whether-to-enter item\; this is t
+ he deadline marker only.
 END:VEVENT
 END:VCALENDAR
