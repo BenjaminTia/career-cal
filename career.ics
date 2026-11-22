@@ -2040,4 +2040,23 @@ DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, "青
  lready carried in Rolling.md as a decide-whether-to-enter item\; this is t
  he deadline marker only.
 END:VEVENT
+BEGIN:VEVENT
+UID:techathon-hksec-team-update-kitty-20261128@benjamintia
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Techathon+ / HKSEC: send Kitty the team update - 28-29 Nov window (
+ TIME TBC)
+DESCRIPTION:Kitty Lau asked the team in writing on the HKSEC team channel: 
+ 'I am planning to catch up every two weeks. Do you think you guys can give
+  me an update on 28-29 Nov? Let me know what time works for you.' She offe
+ red a two-day window\, not a fixed slot\, so no clock time is printed here
+ . Benjamin's own note proposes Sun 29 Nov 11:00 as the suggested time\; Ki
+ tty's and Aumio's availability are NOT confirmed. Sat 28 Nov 13:00-16:00 i
+ s the compulsory UNI 2002BEW Day School\, so 28 Nov daytime is largely occ
+ upied. This marker is placed on the earlier date of the window\; confirm t
+ he slot in the group before treating it as fixed. Content boundary: no NDA
+ -covered CAD or patient information without Kitty's agreement.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
