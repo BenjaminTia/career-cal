@@ -2059,4 +2059,24 @@ DESCRIPTION:Kitty Lau asked the team in writing on the HKSEC team channel:
  -covered CAD or patient information without Kitty's agreement.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:amd-ai-devday-hongkong-20261129@bencal
+DTSTAMP:20261123T110000Z
+DTSTART;TZID=Asia/Hong_Kong:20261129T090000
+DTEND;TZID=Asia/Hong_Kong:20261129T173000
+SUMMARY:AMD AI DevDay Hong Kong (HKSTP) 09:00-17:30
+DESCRIPTION:Charles K. Kao Auditorium, 1/F Building 10W, 10 Science Park We
+ st Avenue, HK Science Park. Registration CONFIRMED by AMD AI Developer Team
+ , \"Registration Confirmed - AMD AI DevDay Hong Kong\", Mon 23 Nov 2026 12:
+ 00 HKT. Event date/time from the confirmation's own iCal attachment and cor
+ roborated by the HKSTP Talent Foundry listing of 23 Nov: \"29 Nov 2026 (Sun
+ )\" \"9:00 - 17:30\". Full day of breakout sessions, hands-on workshops, ce
+ rtification and networking. Bring a laptop and join the AMD AI Developer Pr
+ ogram before the event. Quote: \"Admission will be limited to the venue's 3
+ 00-person capacity, and doors will close once it is reached.\"
+LOCATION:Charles K. Kao Auditorium\, 1/F Building 10W\, HK Science Park\, P
+ ak Shek Kok\, Hong Kong
+CATEGORIES:AI
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
