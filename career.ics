@@ -2066,17 +2066,46 @@ DTSTART;TZID=Asia/Hong_Kong:20261129T090000
 DTEND;TZID=Asia/Hong_Kong:20261129T173000
 SUMMARY:AMD AI DevDay Hong Kong (HKSTP) 09:00-17:30
 DESCRIPTION:Charles K. Kao Auditorium, 1/F Building 10W, 10 Science Park We
- st Avenue, HK Science Park. Registration CONFIRMED by AMD AI Developer Team
- , \"Registration Confirmed - AMD AI DevDay Hong Kong\", Mon 23 Nov 2026 12:
- 00 HKT. Event date/time from the confirmation's own iCal attachment and cor
- roborated by the HKSTP Talent Foundry listing of 23 Nov: \"29 Nov 2026 (Sun
- )\" \"9:00 - 17:30\". Full day of breakout sessions, hands-on workshops, ce
- rtification and networking. Bring a laptop and join the AMD AI Developer Pr
- ogram before the event. Quote: \"Admission will be limited to the venue's 3
+ st Avenue, HK Science Park. Registration CONFIRMED by AMD AI Developer Tea
+ m
+ , \"Registration Confirmed - AMD AI DevDay Hong Kong\", Mon 23 Nov 2026 12
+ :
+ 00 HKT. Event date/time from the confirmation's own iCal attachment and co
+ r
+ roborated by the HKSTP Talent Foundry listing of 23 Nov: \"29 Nov 2026 (Su
+ n
+ )\" \"9:00 - 17:30\". Full day of breakout sessions, hands-on workshops, c
+ e
+ rtification and networking. Bring a laptop and join the AMD AI Developer P
+ r
+ ogram before the event. Quote: \"Admission will be limited to the venue's 
+ 3
  00-person capacity, and doors will close once it is reached.\"
 LOCATION:Charles K. Kao Auditorium\, 1/F Building 10W\, HK Science Park\, P
  ak Shek Kok\, Hong Kong
 CATEGORIES:AI
 TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:aigc-kowloon-city-30a-registration-20261215@hkmu
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=Asia/Hong_Kong:20261215T235900
+DTEND;TZID=Asia/Hong_Kong:20261215T235900
+SUMMARY:AIGC 九龍城故事 short-film programme (30A) - registration DUE 
+ Tue 15 Dec 23:59
+DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, "【H
+ K$6\,000冠軍獎金】《九龍城故事》AIGC 青年影像創作及人
+ 才培育 30A 計劃"\, received Tue 24 Nov 2026 16:08 HKT\, Chinese only.
+  Registration close\, verbatim: 「報名截止：2026 年 12月 15 日\, 
+ 23:59」\, printed under 「重要日期（暫定）」 (dates provisional
+ ). Open to full-time students at HK tertiary institutions\; teams of exact
+ ly 3 (individual entry accepted with organiser cross-discipline matching).
+  Selected teams get 6-8 weeks of free weekend AIGC training in Jan-Feb 202
+ 7\, commercial AI tool accounts plus compute\, and the champion of each th
+ eme takes HK$6\,000 cash\; screening Jul 2027. Sign-up: https://tally.so/r
+ /X5rZDP. Optional for him - competition entry in his AI-video lane\, not a
+  coursework item. Registering is his own.
+CATEGORIES:AI
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
