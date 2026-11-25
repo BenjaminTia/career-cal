@@ -923,29 +923,21 @@ CATEGORIES:Scholarship
 URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_FOF.pdf
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HSBC Global Scholarship - SAO advisory submission 30 Nov / TIME TB
+ C
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261125T091419Z
 UID:f5aabb6932d0fde90688e070edbb82e4@hkmu
-DTSTAMP:20261014T111729Z
-DTSTART;TZID=Asia/Hong_Kong:20261130T235900
-DTEND;TZID=Asia/Hong_Kong:20261130T235900
-SUMMARY:HSBC Global Scholarship 2027/28 - application DUE Mon 30 Nov
-DESCRIPTION:University-wide scholarship for a study-abroad year or semester
-  in 2027/28: up to HK$300\,000 per awardee for the Global stream (or the t
- otal cost of the overseas study\, whichever is lower)\, or HK$25\,000 for 
- the Chinese Mainland stream; apply through HSBC — info sheet on the HKMU
-  SAO scholarship page. Deadline as stated: "Submission Deadline (for appli
- cants who opt for the application form and essays advisory service - highl
- y recommended) 30 November 2026"; the HSBC online application itself close
- s "8 January 2027 (HKT 6pm)"\, so 30 Nov is the recommended early route wi
- th form-and-essay help and 8 Jan 2027 is the hard end. No time is given fo
- r 30 Nov\, so 23:59 is a placeholder. Eligibility as stated: the mail addr
- esses "Dear Local Undergraduate Students" - verify the local-student rule 
- on MyHKMU\, and weigh a one-year placement against the PR-clock caution on
-  exchange. Sender sao_sch@hkmu.edu.hk\, subject "(Apply by 30 Nov) HSBC Gl
- obal Scholarship 2027/28 (For Study Abroad in 2027/28)"\, received 14 Oct 
- 2026 10:00 HKT.
 CATEGORIES:Scholarship
-URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_HSBC_Global.p
- df
+DESCRIPTION:SAO scholarships email 20 Nov 2026: "Submission Deadline to SA
+ O (for applicants who opt for the application form and essays advisory ser
+ vice - highly recommended) 30 November 2026". No time stated. This is not 
+ the main application deadline: "Application Deadline (online application s
+ ubmission to HSBC) 8 January 2027 (HKT 6pm)". Check eligibility and detail
+ s with SAO\; this marker does not mean an application has been submitted.
+URL:https://www.hkmu.edu.hk/SAO/Scholarship/Information_Sheet_HSBC_Global.
+ pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:b9e30407f2f4454cb8d42a9b14759bb4@hkmu
