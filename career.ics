@@ -2100,4 +2100,42 @@ DESCRIPTION:HKMU SAO (Student Entrepreneurship) <saomc@hkmu.edu.hk>\, "【H
 CATEGORIES:AI
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:ytalk-ai-reg-20261129@hkmu
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Y-talk AI youth exchange (HKMU x Kowloon City DLO) - registration D
+ UE Sun 29 Nov
+DESCRIPTION:Registration by replying to the SAO Career mail of 25 Nov 2026 
+ (career@hkmu.edu.hk)\, submit Chinese name\, English name\, gender\, age\,
+  programme and contact phone. Verbatim: 有興趣參加的同學，請於 
+ 2026年11月29日（星期日）或之前 回覆此電郵報名. No closin
+ g hour printed\, so TIME TBC. Event: Sun 6 Dec 2026\, 14:00-17:00\, Jockey
+  Club Institute of Healthcare 4/F and 5/F\, HKMU Ho Man Tin campus - the @
+  Y-talk AI youth exchange inside the 智叻AI。龍城 AI Smarties communi
+ ty programme showcase\, small-group discussion with youth committee member
+ s\, secondary\, university and working youth. Places limited and selection
+  applies: 成功報名並獲甄選的同學將收到確認電郵\, so regi
+ stering does not guarantee a seat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:metro-family-newstudent-app-20261211@hkmu
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Metro Family 2026/27 - new-student application DUE Fri 11 Dec (TIME
+  TBC)
+DESCRIPTION:HKMU SAO Diversity\, Inclusion and Non-local Student Support ma
+ il of 25 Nov 2026. Verbatim: Application deadline: Friday\, 11 December 20
+ 26\, and Non-local students newly admitted in 2026/27\, including senior-y
+ ear entrants\, should apply as new students. Participation free\; apply at
+  the Qualtrics new-student form linked in the mail. If matched: Big Siblin
+ g briefing late Dec 2026 or early Jan 2027\, Welcome Session Thu 14 Jan 20
+ 27\, family gatherings about once a month Jan-Apr 2027\, closing event Apr
+  2027. Senior students join the same programme as Big Siblings (certificat
+ e and HK00 voucher)\; this marker is the new-student route.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
