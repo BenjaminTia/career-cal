@@ -2121,4 +2121,13 @@ DESCRIPTION:HKMU SAO Diversity\, Inclusion and Non-local Student Support ma
  e and HK$300 voucher)\; this marker is the new-student route.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HKSEC Q&A on Zoom
+DTSTART;TZID="UTC+08:00":20261125T214500
+DTSTAMP:20261125T132959Z
+UID:hksec-qa-zoom-20261125-2145@benjamintia
+DESCRIPTION:Start time confirmed by Benjamin. End time and Zoom link not s
+ upplied\; calendar client may show a default duration.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
