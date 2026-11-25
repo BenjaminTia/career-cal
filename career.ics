@@ -2123,11 +2123,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HKSEC Q&A on Zoom
-DTSTART:20261125T134500Z
+DTSTART:20261125T133000Z
 DTSTAMP:20261125T132959Z
 UID:hksec-qa-zoom-20261125-2145@benjamintia
-DESCRIPTION:Start time confirmed by Benjamin. End time and Zoom link not s
- upplied\; calendar client may show a default duration.
+DESCRIPTION:Team chat confirms 21:30 HKT. End time not stated.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
