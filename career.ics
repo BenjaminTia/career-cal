@@ -1728,29 +1728,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:hkmu-bursary-scheme-2026-27-20261126@hkmu
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:HKMU Bursary Scheme 2026/27 - DUE Thu 26 Nov (TIME TBC)
+DTSTAMP:20261127T110000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:HKMU Bursary Scheme 2026/27 - DUE Fri 4 Dec (TIME TBC)
 CATEGORIES:Bursary
 DESCRIPTION:HKMU Student Affairs Office (Financial Assistance) sao_sfs@hkmu
- .edu.hk\, '(現正接受申請 Calling for Applications) 香港都會大
- 學助學金計劃 HKMU Bursary Scheme 2026/27'\, received Mon 9 Nov 2026 
- 11:44 HKT. Deadline wording verbatim: 'The application deadline is 26 Nove
- mber\, 2026 (Thursday).' No clock time is printed anywhere in the mail\, s
- o this is an all-day marker for an unknown cutoff. Apply on MyHKMU: online
-  application form plus supporting documents. Two further conditions in the
-  same mail: 'all applicants are required to complete and pass a mandatory 
- Financial Management Education Module by the application deadline (i.e. 26
-  November 2026)' on OLE at ole.hkmu.edu.hk/course2631/sao1000bw.nsf/\, pas
- sed by 'answering at least 7 questions correctly'\, and 'Applicants who do
-  not pass or complete this module will not be considered for a bursary awa
- rd'\; and for continuing students 'a minimum CGPA of 2.0 or above'. Scheme
-  scope verbatim: 'full-time local HKMU students enrolled in a Sub-Degree o
- r Bachelor's Degree Programme who are facing financial challenges'. Local-
- student status and financial-need evidence are his to confirm. Guidance no
- tes: hkmu.edu.hk/SAO/FT_Bursary/GuidanceNotestoApplicants.pdf. Added by th
- e 9 Nov 19:00 mail scan\; applying is his.
+ .edu.hk\, '(Extended Deadline) HKMU Bursary Scheme 2026/27'\, received Fri
+  27 Nov 2026 14:18 HKT. Deadline EXTENDED\, verbatim: 'the application dea
+ dline for the HKMU Bursary Scheme 2026/27 has been extended to 4 December 
+ 2026 (Friday).' This supersedes the original 26 November 2026 close in the
+  9 Nov 2026 mail\, and this entry was moved from 26 Nov to 4 Dec on the sa
+ me UID. No clock time is printed anywhere\, so this is an all-day marker f
+ or an unknown cutoff. Same mail\, verbatim: 'For students who have already
+  submitted your application\, please ensure that you complete and pass the
+  mandatory Financial Management Education Module before the deadline. Othe
+ rwise\, your bursary application will not be considered.' The module is on
+  OLE at ole.hkmu.edu.hk/course2631/sao1000bw.nsf/ and is passed by answeri
+ ng at least 7 questions correctly. Scheme scope from the original mail: 'f
+ ull-time local HKMU students enrolled in a Sub-Degree or Bachelor's Degree
+  Programme who are facing financial challenges'\; continuing students need
+  a minimum CGPA of 2.0 or above. Local-student status and financial-need e
+ vidence are his to confirm. Guidance notes: hkmu.edu.hk/SAO/FT_Bursary/Gui
+ danceNotestoApplicants.pdf. Updated by the 27 Nov 19:00 mail scan\; applyi
+ ng is his.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
