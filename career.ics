@@ -2130,4 +2130,25 @@ UID:hksec-qa-zoom-20261125-2145@benjamintia
 DESCRIPTION:Team chat confirms 21:30 HKT. End time not stated.
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:career-ieee-guest-lecture-reg-20261211@hkmu
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:IEEE guest lecture 19 Dec (health AI\, CityU) - registration DUE Fr
+ i 11 Dec (TIME TBC)
+DESCRIPTION:IEEE eNotice <enotice@enotice.ieee.org>\, subject 'Guest Lectur
+ e: Regulatory Coordination in Federated Analytics and Learning for Health 
+ AI'\, received 27 Nov 2026 23:47 HKT. Verbatim: 'Please register at: https
+ ://forms.gle/mJELVY3mv45Sjxv47 no later than 11 December\, 2026.' The lect
+ ure itself: Dr Maja Nisevic (KU Leuven)\, 19 December 2026\, 11:30-12:15\,
+  Room 2610\, Li Dak Sum Yip You Chin A Building\, City University of Hong 
+ Kong\, Kowloon Tong. Topic: how the GDPR\, the AI Act and the European Hea
+ lth Data Space shape federated analytics and federated learning in health 
+ AI\, from the EU-funded HEREDITARY project. No closing hour is printed for
+  the registration\, so this is an all-day marker with TIME TBC. 19 Dec fal
+ ls between the ELEC 3630 paper (22 Dec) and the ELEC 3050 paper (24 Dec). 
+ Attending is optional and registering is his.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
